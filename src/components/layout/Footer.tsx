@@ -82,11 +82,7 @@ export const Footer = () => {
                   SB Leaderboard
                 </Link>
               </li>
-              <li>
-                <Link href="/gallery" className="hover:text-cyan-400 transition-colors">
-                  Event Gallery
-                </Link>
-              </li>
+              
               <li>
                 <Link href="/resources" className="hover:text-cyan-400 transition-colors">
                   Activity Grant Forms
